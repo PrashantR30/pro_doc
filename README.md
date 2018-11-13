@@ -12,6 +12,7 @@ PDF and HTML Documentation Builder from AsciiDoc
 
 <p align="center">
 	<img 	width="300" src="https://github.com/PrashantR30/pro_doc/blob/master/images/adoc_to_pdf.png" width="550">
+  <br>
   Create modular and customizable HTML5 and PDF Documentations from AcciiDocs, on the fly
 
 </p>

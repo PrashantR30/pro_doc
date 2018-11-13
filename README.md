@@ -11,11 +11,12 @@ PDF and HTML Documentation Builder from AsciiDoc
 
 
 <p align="center">
-	<img 	width="200" src="https://github.com/PrashantR30/pro_doc/blob/master/images/adoc_to_pdf.png" width="550">
+	<img 	width="300" src="https://github.com/PrashantR30/pro_doc/blob/master/images/adoc_to_pdf.png" width="550">
+  Create modular and customizable HTML5 and PDF Documentations from AcciiDocs, on the fly
+
 </p>
 
 
-The goal of this project is to create modular and customizable HTML5 and PDF Documentations from AcciiDocs, on the fly
 
  ## Table of Contents
  - [Introduction](#introduction)

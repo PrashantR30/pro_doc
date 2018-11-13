@@ -55,17 +55,21 @@ Two ways to pull the project
 ```sh
 $ git clone https://github.com/kmcminn/rabbit-nagios.git
 ```
-or
+
 2. Clone the repository from IDEA ide:
-On the main menu, go to VCS->Check Out from Version Control->GitHub
-In the box add the repository and the target folder:
+On the main menu, go to:
+```sh
+VCS->Check Out from Version Control->GitHub
+```
+In the box add the repository and the target folder as follows, Test and Click on Clone button:
+
 <h1 align="left">
-<img src="https://github.com/PrashantR30/pro_doc/blob/master/images/pull.png" width="5500">
+<img src="https://github.com/PrashantR30/pro_doc/blob/master/images/pull.png" width="550">
 </h>
 
  ## Creating your First Document
 <h1 align="center">
- <img src="https://github.com/PrashantR30/pro_doc/blob/master/images/steps.png" width="5500">
+ <img src="https://github.com/PrashantR30/pro_doc/blob/master/images/steps.png" width="550">
 </h1>
 
 

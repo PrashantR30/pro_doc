@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-# PDF and HTML Documentation Builder from AsciiDoc
+PDF and HTML Documentation Builder from AsciiDoc
 </h3>
 
 

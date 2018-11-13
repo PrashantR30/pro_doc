@@ -1,12 +1,12 @@
 <h1 align="center">
 	<img
-		width="300"
+		width="400"
 		alt="Proemion"
 		src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Proemion_Logo.jpg">
 </h1>
 
 
-# PDF and HTML Documentation Builder using AsciiDoctor & Maven Plugin
+# PDF and HTML Documentation Builder from AsciiDoc
 The goal of this project is to create modular and customizable HTML5 and PDF Documentations from AcciiDocs, on the fly
 
  ## Table of Contents

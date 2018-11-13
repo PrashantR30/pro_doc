@@ -59,13 +59,14 @@ or
 2. Clone the repository from IDEA ide:
 On the main menu, go to VCS->Check Out from Version Control->GitHub
 In the box add the repository and the target folder:
-<img src="https://github.com/PrashantR30/pro_doc/blob/master/images/pull.png" width="300">
-
+<h1 align="left">
+<img src="https://github.com/PrashantR30/pro_doc/blob/master/images/pull.png" width="5500">
+</h>
 
  ## Creating your First Document
-
- <img src="https://github.com/PrashantR30/pro_doc/blob/master/images/steps.png" width="300">
-
+<h1 align="center">
+ <img src="https://github.com/PrashantR30/pro_doc/blob/master/images/steps.png" width="5500">
+</h1>
 
 
  *Step 1:*

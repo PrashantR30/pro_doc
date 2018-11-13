@@ -2,7 +2,7 @@
 	<img
 		width="300"
 		alt="Proemion"
-		src="https://commons.wikimedia.org/wiki/File:Proemion_Logo.jpg">
+		src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Proemion_Logo.jpg">
 </h1>
 
 

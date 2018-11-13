@@ -76,27 +76,24 @@ In the box add the repository and the target folder as follows, Test and Click o
  *Step 1:*
  Open the Project in the IDE,
 
+notes here...
+
  *Step 2:*
  Project Structure
 
+notes here...
+
  *Step 3:*
  Editor
+notes here...
 
 *Step 4:*
  Build The projects
+notes here...
 
 *Step 5:*
  The output Documents
-
-
-
-
-
-
-
-
-
-
+notes here...
 
 
  ## ChangeLog & Future Releases

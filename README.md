@@ -1,21 +1,17 @@
-PDF and HTML Documentation Builder using AsciiDoctor & Maven Plugin
-########################################
-The goal of this project is to create modular HTML5 and PDF Documentation from AcciiDocs
-
+# PDF and HTML Documentation Builder using AsciiDoctor & Maven Plugin
+The goal of this project is to create modular and customizable HTML5 and PDF Documentations from AcciiDocs, on the fly
 
  ## Table of Contents
-
  - [Introduction](#introduction)
  - [Ideal Setup](#Ideal_setup)
  - [Features](#features)
 
-
  ## Introduction
- - The Project uses https://maven.apache.org[*Maven*] Dependency Management to build projects from Ascii Doc to HTML5 and PDF
- - For Graphical diagrams, tools such as graphviz (www.graphviz.org) is used.
+ - This is a Java Project which uses https://maven.apache.org[*Maven*] Dependency Management to build projects from Ascii Doc to HTML5 and PDF. https://asciidoctor.org/docs/[*AsciiDoc*] is a human-readable, lightweight markup languages.
+ AsciiDoc documents can be created using any text editor and read “as-is”, or rendered to HTML, PDF or any other format supported by a DocBook tool-chain, i.e. TeX, Unix manpages, e-books, slide presentations, etc
+ - For graphical diagrams rendering, tools such as graphviz (www.graphviz.org) is used.
  - Images can also be embedded in the Documentation
 
-
  ## Ideal Setup:
-  - The ideal setup consist of IntelliJ Idea with Maven and Git plugins enabled at installation time
-  - The Latest IntelliJ IDEA is downloaded from https://download-cf.jetbrains.com/idea/ideaIC-2018.2.5.tar.gz
+ The ideal setup consist of IntelliJ Idea with Maven and Git plugins enabled at installation time
+ The Latest IntelliJ IDEA is downloaded from https://download-cf.jetbrains.com/idea/ideaIC-2018.2.5.tar.gz

@@ -51,10 +51,47 @@ PDF and HTML Documentation Builder from AsciiDoc
 
  ## Pull the project
 Two ways to pull the project
-
+1. ssh git pull
+```sh
+$ git clone https://github.com/kmcminn/rabbit-nagios.git
+```
+or
+2. Clone the repository from IDEA ide:
+On the main menu, go to VCS->Check Out from Version Control->GitHub
+In the box add the repository and the target folder:
+<img src="https://github.com/PrashantR30/pro_doc/blob/master/images/pull.png" width="300">
 
 
  ## Creating your First Document
+
+ <img src="https://github.com/PrashantR30/pro_doc/blob/master/images/steps.png" width="300">
+
+
+
+ *Step 1:*
+ Open the Project in the IDE,
+
+ *Step 2:*
+ Project Structure
+
+ *Step 3:*
+ Editor
+
+*Step 4:*
+ Build The projects
+
+*Step 5:*
+ The output Documents
+
+
+
+
+
+
+
+
+
+
 
 
  ## ChangeLog & Future Releases

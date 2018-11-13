@@ -6,7 +6,7 @@ The goal of this project is to create modular HTML5 and PDF Documentation from A
  ## Table of Contents
 
  - [Introduction](#introduction)
- - [Ideal Setup](#Ideal Setup)
+ - [Ideal Setup](#Ideal_setup)
  - [Features](#features)
 
 

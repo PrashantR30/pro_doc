@@ -69,7 +69,7 @@ In the box add the repository and the target folder as follows, Test and Click o
 
  ## Creating your First Document
 <h1 align="center">
- <img src="https://github.com/PrashantR30/pro_doc/blob/master/images/steps.png" width="550">
+ <img src="https://github.com/PrashantR30/pro_doc/blob/master/images/steps.png" width="650">
 </h1>
 
 

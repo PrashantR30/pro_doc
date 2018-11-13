@@ -21,8 +21,9 @@ PDF and HTML Documentation Builder from AsciiDoc
 
  ## Table of Contents
  - [Introduction](#introduction)
- - [Ideal Setup](#Ideal_setup)
  - [Setup](#setup)
+ - [Pull the Project](#pullproject)
+
 
  ## Introduction
  - This is a Java Project which uses [*Maven*](https://maven.apache.org) Dependency Management to build projects from Ascii Doc to HTML5 and PDF.
@@ -30,13 +31,14 @@ PDF and HTML Documentation Builder from AsciiDoc
  - For graphical diagrams rendering, tools such as [*graphviz*](www.graphviz.org) is used.
  - Images can also be embedded in the Documentation
 
- ## Ideal Setup:
+ ## Setup
+
  So as to easily edit and maintain your the documentation on a git repository, the following is recommended:
 
   - IntelliJ Idea, IDE with Maven and Git plugins enabled at installation time
   - A Git repository
 
- ## Setup
+
  Downloaded IntelliJ Ide from https://download-cf.jetbrains.com/idea/ideaIC-2018.2.5.tar.gz
  Decompress and run as follows:
  ```sh
@@ -44,3 +46,5 @@ PDF and HTML Documentation Builder from AsciiDoc
  $ cd /opt/idea-IC-182.4892.20
  $ ./idea.sh
 ```
+
+ ## Pull the project

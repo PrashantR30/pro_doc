@@ -7,9 +7,9 @@ The goal of this project is to create modular and customizable HTML5 and PDF Doc
  - [Features](#features)
 
  ## Introduction
- - This is a Java Project which uses https://maven.apache.org[*Maven*] Dependency Management to build projects from Ascii Doc to HTML5 and PDF. https://asciidoctor.org/docs/[*AsciiDoc*] is a human-readable, lightweight markup languages.
- AsciiDoc documents can be created using any text editor and read “as-is”, or rendered to HTML, PDF or any other format supported by a DocBook tool-chain, i.e. TeX, Unix manpages, e-books, slide presentations, etc
- - For graphical diagrams rendering, tools such as graphviz (www.graphviz.org) is used.
+ - This is a Java Project which uses [*Maven*](https://maven.apache.org) Dependency Management to build projects from Ascii Doc to HTML5 and PDF.
+ - [*AsciiDoc*](https://asciidoctor.org/docs/) is a human-readable, lightweight markup languages.  AsciiDoc documents can be created using any text editor and read “as-is”, or rendered to HTML, PDF or any other format supported by a DocBook tool-chain, i.e. TeX, Unix manpages, e-books, slide presentations, etc
+ - For graphical diagrams rendering, tools such as [*graphviz*](www.graphviz.org) is used.
  - Images can also be embedded in the Documentation
 
  ## Ideal Setup:
